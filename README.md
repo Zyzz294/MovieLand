@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/96903120/174484435-22e7e396-b389-4854-a7e0-57a26a908d52.png">
 <br>
-<img src="[https://user-images.githubusercontent.com/96903120/174484435-22e7e396-b389-4854-a7e0-57a26a908d52.png](https://user-images.githubusercontent.com/96903120/174484506-32f58e9b-da7c-4a92-baa3-0e7dc715497f.png)">
+<img src="https://user-images.githubusercontent.com/96903120/174484506-32f58e9b-da7c-4a92-baa3-0e7dc715497f.png">
 <br>
 # Getting Started with Create React App
 
