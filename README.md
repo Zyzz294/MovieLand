@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/96903120/174484435-22e7e396-b389-4854-a7e0-57a26a908d52.png">
+<br>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -33,7 +35,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-<img src="https://user-images.githubusercontent.com/96903120/174484435-22e7e396-b389-4854-a7e0-57a26a908d52.png">
+
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
